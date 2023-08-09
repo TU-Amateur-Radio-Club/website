@@ -6,8 +6,8 @@ languages:
     languageName: English
     menu:
       main:
-      - name: Blog
-        url: /posts
+      - name: Join Now
+        url: /join
         weight: 10
       - name: Home
         url: /
