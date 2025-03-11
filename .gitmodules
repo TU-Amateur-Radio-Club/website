@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-readable"]
+	path = themes/hugo-theme-readable
+	url = https://codeberg.org/Freedom-To-Write/hugo-theme-readable
