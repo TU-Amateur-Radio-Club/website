@@ -1,6 +1,0 @@
-[submodule "themes/readable"]
-	path = themes/readable
-	url = https://github.com/cjtheham/hugo-theme-readable
-[submodule "themes/hugo-theme-readable"]
-	path = themes/hugo-theme-readable
-	url = https://github.com/cjtheham/hugo-theme-readable
