@@ -2,6 +2,10 @@
 title: ''
 ---
 
+UTARC is The University of Tulsa's one and only amateur radio club on campus, callsign KC5TU. Our goal is to bring amateur radio's presence to campus by educating and assisting with getting students licensed, promoting RF activities on campus, and eventually putting up an HF station on campus for students to use.
+
+We typically meet once per month on a Thursday at 5pm CT in Rayzor Hall - join our chats linked below for more information on exact meeting dates!
+
 ## What is Amateur Radio?
 
 Amateur Radio is a hobby surrounding learning about radio technology, communicating with others locally and around the world, and playing with electronics. There's tons of ways to participate - including building your own equipment, setting up in a park or on a mountain, and experimenting with sending data over radio using computer software.
@@ -18,4 +22,4 @@ For more information or to schedule a test, email the club president - CJ WW0CJ 
 
 Any student can join the TU Amateur Radio Club - no license needed! We can help you get your license, or explore interests that may require no license, or just help you understand more about the hobby.
 
-To begin the process of joining, click the "Join Now" button at the top of the page, fill out the form, and you'll be given an invite link to our Discord server where event announcements, chats, and other club resources and announcements are found.
+Join our [Discord](https://discord.gg/9se5ZcJRM8) or [GroupMe](https://groupme.com/join_group/104027117/yENBujLq) to hang out and chat radio, and learn about our upcoming meeting times.

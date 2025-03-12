@@ -1,17 +1,22 @@
 theme: 'hugo-theme-readable'
-title: 'U Tulsa ARC'
+title: 'KC5TU'
 
 languages:
   en:
     languageName: English
     menu:
       main:
-      - name: Join Now
-        url: /join
-        weight: 10
       - name: Home
         url: /
         weight: 1
+      - name: About
+        url: /about
+      - name: Resources
+        url: /resources
+      - name: GroupMe
+        url: https://groupme.com/join_group/104027117/yENBujLq
+      - name: Discord
+        url: https://discord.gg/9se5ZcJRM8
 
 frontmatter:
   lastmod:
