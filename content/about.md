@@ -18,6 +18,10 @@ Officers At Large:
 
 Faculty Sponsor - Dr. Nathan Hutchins
 
+## Values
+
+KC5TU <a href="https://www.amateurradioinclusivitypledge.org">proudly makes the Amateur Radio Inclusivity Pledge</a> - striving to create an inclusive environment for all hams.
+
 ## History
 
 University of Tulsa Amateur Radio Club was re-chartered in March 2023, with the callsign KC5TU retrieved shortly after. 
