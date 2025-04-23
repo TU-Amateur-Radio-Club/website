@@ -20,7 +20,7 @@ Faculty Sponsor - Dr. Nathan Hutchins
 
 ## Values
 
-KC5TU <a href="https://www.amateurradioinclusivitypledge.org">proudly makes the Amateur Radio Inclusivity Pledge</a> - striving to create an inclusive environment for all hams.
+KC5TU [proudly makes the Amateur Radio Inclusivity Pledge](https://www.amateurradioinclusivitypledge.org) - striving to create an inclusive environment for all hams.
 
 ## History
 
